@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="tarefa_meioAmbiente_1" type="id">Tarefa 1</item>
+    <item name="tarefa_meioAmbiente_2" type="id">Tarefa 2</item>
+    <item name="tarefa_meioAmbiente_3" type="id">tarefa 3</item>
+</resources>
